@@ -15,6 +15,7 @@ Note: The result of operations will be always an integer number, so round procce
  You can find it in this repo or in https://github.com/rentton/learning/blob/master/FormalLanguagesAndCompilers/ArithmeticAnalizer.py.
   2. The calculator understand the order of the operations because of reverse Polish notation (also called postfix notation). 
  The modules that coding this are *postfix* and * op_condition * (both commented) and the var hierarchy that represent for each operator his priority (less number, more priority).
+ 
  ![Screenshot](Captura.PNG)
  
 
